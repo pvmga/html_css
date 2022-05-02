@@ -11,3 +11,6 @@ Trabalhando com páginas resposivas utilizando auto e percentual %.
 
 ### Aula5:
 Trabalhando com presets de tamanho de font. h1, h2, h3...familia de fontes e tamanho
+
+### Aula6:
+Trabalhando com padding, background...
