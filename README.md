@@ -14,3 +14,6 @@ Trabalhando com presets de tamanho de font. h1, h2, h3...familia de fontes e tam
 
 ### Aula6:
 Trabalhando com padding, background...
+
+### Aula7:
+Css esternalizado e trabalhando com css inline
