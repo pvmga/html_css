@@ -35,3 +35,6 @@ Trabalhando com div pai e filha e estilos de declaração. Forçando a filha pro
 
 ### Aula13:
 Trabalhando com figure, img e figcaption
+
+### Aula14:
+Construimos um pequeno site onde exemplicou a utilização de href interno, externo e ancora , e pra que serve o target
