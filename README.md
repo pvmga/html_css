@@ -23,3 +23,6 @@ Trabalhando com background linear, circle e rgba
 
 ### Aula9:
 Conhecendo background-image, norepeat, repeat..
+
+### Aula10:
+Conhecendo posicionamento de elementos (Body já é relative. Um elemento absoluto sempre procura o primeiro elemento relativo mais próximo)
