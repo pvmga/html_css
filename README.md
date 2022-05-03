@@ -17,3 +17,9 @@ Trabalhando com padding, background...
 
 ### Aula7:
 Css esternalizado e trabalhando com css inline
+
+### Aula8:
+Trabalhando com background linear, circle e rgba
+
+### Aula9:
+Conhecendo background-image, norepeat, repeat..
