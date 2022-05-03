@@ -29,3 +29,6 @@ Conhecendo posicionamento de elementos (Body já é relative. Um elemento absolu
 
 ### Aula11:
 Trabalhando com z-index
+
+### Aula12:
+Trabalhando com div pai e filha e estilos de declaração. Forçando a filha processar sem passar pelo pai (#pai > #filho| #pai #filho)
