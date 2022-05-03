@@ -32,3 +32,6 @@ Trabalhando com z-index
 
 ### Aula12:
 Trabalhando com div pai e filha e estilos de declaração. Forçando a filha processar sem passar pelo pai (#pai > #filho| #pai #filho)
+
+### Aula13:
+Trabalhando com figure, img e figcaption
