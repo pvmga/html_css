@@ -40,3 +40,7 @@ Trabalhando com figure, img e figcaption
 Construimos um pequeno site onde exemplicou a utilização de href interno, externo e ancora , e pra que serve o target
 
 ### Aula15:
+Utilizando animação de scroll de forma sutil e variaveis no css
+
+### Aula16:
+Estilo de navegadores: webkit, moz e ms
