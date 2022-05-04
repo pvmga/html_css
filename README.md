@@ -50,3 +50,6 @@ Trabalhando com box-sizing para corrigir bordas e box-shadow
 
 ### Aula18:
 Explicado o motivo de utilizar o viewport e também trabalhamos com unidades de medida vh, vw, em, rem.
+
+### Aula19:
+Estrutura basica de um formulário
