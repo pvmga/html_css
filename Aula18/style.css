@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 50px;
+}
+
+article#el-pai {
+    width: 100vw;
+    height: 100vh;
+    padding: 5px;
+    background-color: black;
+}
+
+/* article#el-pai p#el-filho {
+    width: 100%;
+    height: auto;
+    background-color: red; 
+    font-size: 1em;*/ /* CASO ESTEJA 1EM SIGNIFICA 20PX pois o filho irá procurar o elemento pai mais proximo */
+/* } */
+
+article#el-pai p#el-filho {
+    width: 100%;
+    height: auto;
+    background-color: red;
+    font-size: 0.5rem; /* CASO ESTEJA 1EM SIGNIFICA 20PX pois o filho irá procurar o elemento pai mais proximo */
+}

@@ -47,3 +47,6 @@ Estilo de navegadores: webkit, moz,  ms e estilos de bordas
 
 ### Aula17:
 Trabalhando com box-sizing para corrigir bordas e box-shadow
+
+### Aula18:
+Explicado o motivo de utilizar o viewport e também trabalhamos com unidades de medida vh, vw, em, rem.
