@@ -43,4 +43,7 @@ Construimos um pequeno site onde exemplicou a utilização de href interno, exte
 Utilizando animação de scroll de forma sutil e variaveis no css
 
 ### Aula16:
-Estilo de navegadores: webkit, moz e ms
+Estilo de navegadores: webkit, moz,  ms e estilos de bordas
+
+### Aula17:
+Trabalhando com box-sizing para corrigir bordas e box-shadow

@@ -5,7 +5,8 @@
 }
 
 html {
-    scroll-behavior: smooth;
+    scroll-behavior: smooth; 
+    /* SCROLL QUANDO UTILIZAR UTILIZAR A ANCORA NO HREF IRÁ REALIZAR UMA ANIMAÇÃO ESCORRENDO A PÁGINA PARA CIMA OU BAIXO CONFORME O ALINHAMENTO */
 }
 
 :root {

@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+:root {
+    --cor-background-color: rgb(236,239,241);
+}
+
+body {
+    background-color: var(--cor-background-color);
+}
+
+div#div-pai #div-filho {
+    margin: 50px auto;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 100%;
+}
+
+div#div-pai #div-filho:hover {
+    margin: 50px auto;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 100px;
+}
