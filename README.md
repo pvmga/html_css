@@ -56,3 +56,6 @@ Estrutura basica de uma tabela
 
 ### Aula20:
 Criamos um formulário mais completo e botão de submissão.
+
+### Aula21:
+LISTA DESORDENADA, LISTA ORDENADAS e LISTA POR DE DEFINIÇÃO
