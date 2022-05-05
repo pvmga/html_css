@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EXERCICIO 30</title>
+</head>
+
+<style>
+    * {
+        width: 80%;
+        height: auto;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    section#formulario {
+        margin: 30px auto;
+        padding: 5px;
+    }
+
+    form {
+        width: 100%;
+        height: auto;
+        padding: 2px;
+    }
+
+    label {
+        display: block;
+        width: 100%;
+        height: auto;
+        padding: 2px;
+    }
+
+    .txt {
+        width: 100%;
+        height: 30px;
+    }
+
+    fieldset {
+        padding: 2px;
+    }
+</style>
+
+<body>
+    <section id="formulario">
+        <form action="" method="get" name="cadastro">
+            <fieldset>
+                <legend>Cadastro de Usuário</legend>
+                <label for="emailusu">Email</label>
+                <input type="email" required placeholder="Digite o seu email..." class="txt" id="emailusu" name="emailusu" value="">
+                
+                <label for="senhaUsu">Senha</label>
+                <input type="password" class="txt" id="senhaUsu" name="senhaUsu" value="">
+
+                <input type="submit" name="enviarDados" id="enviarDados" value="ENVIAR">
+            </fieldset>
+        </form>
+    </section>
+</body>
+</html>
