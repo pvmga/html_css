@@ -59,3 +59,9 @@ Criamos um formulário mais completo e botão de submissão.
 
 ### Aula21:
 LISTA DESORDENADA, LISTA ORDENADAS e LISTA POR DE DEFINIÇÃO
+
+### Aula22:
+EXPLICANDO SOBRE FLEXBOX
+
+### Aula23:
+TRABALHANDO COM MIDIA QUERY
