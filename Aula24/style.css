@@ -15,7 +15,7 @@
     font-size: 100%;
     --cor-border-geral: #cdf8dc;
     --cor-padrao-fonte: #434f55;
-    --font-padrao: Verdana, Arial;
+    --font-padrao: 'Righteous', cursive;
     --cor-font-titulo: #e53935;
 }
 
@@ -25,6 +25,21 @@ a {
     font-size: 1.2rem;
     font-family: var(--font-padrao);
     color: var(--cor-padrao-fonte);
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+a.go:hover {
+    background-color: var(--cor-font-titulo);
+    color: #fff;
+    transition: 1s; 
+}
+
+.icons-list  {
+    margin-right: 2px;
+    font-size: 1.5rem;
 }
 
 header, main, footer {
@@ -41,8 +56,6 @@ header#top-header {
     display: flex;
 }
 
-
-
 header#top-header h1, header#top-header nav {
     width: 50%;
 }
@@ -50,11 +63,11 @@ header#top-header h1, header#top-header nav {
 header#top-header h1 {
     color: var(--cor-font-titulo);
     font-family: var(--font-padrao);
-    font-size: 2.2rem;
+    font-size: clamp(0.8rem, 4.5vh, 3rem);
     align-items: center;
 }
 
-header#top-header nav ul {
+header#top-header nav#menu ul#list-menu {
     width: 100%;
     justify-content: flex-end;
 }
@@ -62,8 +75,85 @@ header#top-header nav ul {
 /* header#top-header nav {
 } */
 
-nav ul li {
-    width: 120px;
+nav#menu ul#list-menu li.item {
+    width: 130px;
     justify-content: center;
     align-items: center;
+}
+
+section#section-cards {
+   width: 100%;
+   margin-top: 20px;
+   justify-content: space-between;
+   flex-wrap: wrap;
+   gap: 20px;
+}
+
+section#section-cards div.card {
+    width: 320px;
+    /* height: 400px; */
+    flex-grow: 1;
+    border: 1px solid var(--cor-border-geral);
+}
+
+section#section-cards div.card figure.card-img-pizza {
+    width: 100%;
+    padding: 2px;
+}
+
+section#section-cards div.card figure.card-img-pizza img.img-pizza {
+    width: 100%;
+}
+
+form.form-tamanho-pizza {
+    align-items: center;
+    justify-content: center;
+}
+
+form.form-tamanho-pizza label {
+    width: 30px;
+    font-size: 14px;
+    font-family: var(--font-padrao);
+    flex-direction: column;
+    align-items: center;
+    padding: 2px;
+    cursor: pointer;
+}
+
+h2.sub-titulo-pizza {
+    font-size: 1.2rem;
+    font-family: var(--font-padrao);
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
+
+div.align-center-xy {
+    align-items: center;
+    justify-content: center;
+}
+
+form.form-tamanho-pizza div.div.controle-form-btn, 
+form.form-tamanho-pizza div.content-controles {
+    width: 100%;
+}
+
+div.controle-form-btn {
+    padding: 10px;
+}
+
+div.controle-form-btn .btn {
+    padding: 10px;
+    width: 150px;
+    margin-top: 5px;
+    border: none;
+    background-color: #2E7D32;
+    color: #fff;
+    cursor: pointer;
+}
+
+footer {
+    height: 60px;
+    border-top: var(--cor-border-geral);
+    margin-top: 10px;
+    background-color: yellow;
 }
